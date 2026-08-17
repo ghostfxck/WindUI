@@ -618,7 +618,7 @@ local i=a.load'a'local j=
 
 d.Heartbeat
 
-local l="https://raw.githubusercontent.com/Footagesus/Icons/main/Main-v2.lua"
+local l="https://cdn.jsdelivr.net/gh/Footagesus/Icons@main/Main-v2.lua"
 
 local m
 if d:IsStudio()or not writefile then
